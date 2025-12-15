@@ -1,0 +1,18 @@
+    /* Default height for small devices */
+    #intro-example {
+      height: 400px;
+    }
+
+    /* Height for devices larger than 992px */
+    @media (min-width: 992px) {
+      #intro-example {
+        height: 600px;
+      }
+    }
+    .navbar-brand .name-brand{
+   font-family: "BBH Bartle", sans-serif;
+       font-size: 24px;
+    }
+   .edit-card img{
+    height:400px;
+   }
